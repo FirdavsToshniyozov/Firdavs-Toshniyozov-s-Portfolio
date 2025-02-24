@@ -4,7 +4,7 @@
 This is a **3D Developer Portfolio** built using modern web technologies. The project showcases skills, projects, and experience in an interactive way, leveraging **React.js, Three.js, and Tailwind CSS**.
 
 ## 🚀 Live Demo
-👉 [Live Site](https://your-deployed-link.vercel.app)
+👉 [Live Site](https://firdavs-portfolio.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **React.js** – For building the UI
@@ -58,7 +58,7 @@ This project is hosted on **Vercel**. To deploy:
 
 ## 📬 Contact
 If you have any questions, feel free to reach out:
-📧 Email: your-email@example.com  
+📧 Email: toshniyozov2006@gmail.com  
 🔗 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
 
 ---
